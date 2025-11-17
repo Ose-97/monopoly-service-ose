@@ -1,5 +1,9 @@
 # CS 262 Monopoly Web Service
 
+## Running Azure Web Service
+Base URL:  
+https://ose-monopoly-service-d0cyephthahah4br.mexicocentral-01.azurewebsites.net/
+
 This is the data service application for the
 [CS 262 sample Monopoly project](https://github.com/calvin-cs262-organization/monopoly-project),
  which is deployed here:
